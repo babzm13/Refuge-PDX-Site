@@ -88,14 +88,14 @@
 	<li class="dropdown nav-item">
 	  <a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#"> <i class="fas fa-book"></i> Rulebooks</a>
 	  <div class="dropdown-menu"> 
-		<a href="../Site/pdf/RefugeRulebook_v1.0.6.1.pdf" title="Refuge Rulebook" target="_blank" class="dropdown-item"> Refuge LARP Rulebook</a>
-		<a href="http://refugelarp.org/Site/pdf/Refuge_LARP_v1.0.5_Large_Print.pdf" title="Refuge Rulebook Large Font" target="blank" class="dropdown-item"> Refuge Rulebook Large Font</a>
+		<a href="../Site/pdf/RefugeRulebook_v1.0.6.1.pdf" title="Refuge Rulebook" target="_blank" class="dropdown-item"> Refuge LARP Rulebook 1.0.6.1</a>
+		<a href="../Site/pdf/Refuge_LARP_v1.0.5_Large_Print.pdf" title="Refuge Rulebook Large Font" target="blank" class="dropdown-item"> Refuge Rulebook Large Font 1.0.5</a>
 		<a href="../species.html" title="Species" target="_blank" class="dropdown-item"> Species of Refuge</a>
 		<a href="../Site/pdf/CoC-AntiHarassment.pdf" title="PG" target="_blank" class="dropdown-item"> Refuge LARP Code of Conduct</a>
 		<a href="../Site/pdf/Refuge_Inc_Bylaws_2020.pdf" title="PG" target="_blank" class="dropdown-item"> Refuge LARP By-Laws</a>
 		<a href="../Site/pdf/Refuge_Cosmology.pdf" title="Cosmology" target="_blank" class="dropdown-item"> Refuge Cosmology</a>
 		<a href="../Site/pdf/Refuge_Rituals_Rulebook_1.0.pdf" title="Cosmology" target="_blank" class="dropdown-item"> Refuge Ritual Book</a>
-		<a href="https://www.refugelarp.org/Site/pdf/Refuge_Point_Item_Request_Policy.pdf" title="Cosmology" target="_blank" class="dropdown-item"> Refuge Item Purchase</a>
+		<a href="../Site/pdf/Refuge_Point_Item_Request_Policy.pdf" title="Cosmology" target="_blank" class="dropdown-item"> Refuge Item Purchase</a>
 </div>
 	  </li>
 <!-- menu with dropdown -->
@@ -113,8 +113,8 @@
 	<li class="dropdown nav-item">
 		<a class="dropdown-toggle nav-link" data-toggle="dropdown" href="#">  <i class="fas fa-book-open"></i> Player Info </a>
 		<div class="dropdown-menu">
-			<a class="dropdown-item" href="../player_information.html">Be a Hero</a>
-			<a class="dropdown-item" href="../npc_information.html">Be A Monster</a>
+			<a class="dropdown-item" href="../player_information.html">Be a Hero - PC</a>
+			<a class="dropdown-item" href="../npc_information.html">Be A Monster - NPC</a>
 			<a class="dropdown-item" href="../first_event.html">Your First Event</a>
 			<a class="dropdown-item" href="../new_player_FAQ.html">New Player FAQ</a>
 			<a class="dropdown-item" href="../logistics_faq.html">Logistics FAQ</a>
